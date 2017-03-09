@@ -1,4 +1,6 @@
 # viCartaSuggerencies
-Aplicació Web Simple
 
-Aplicació simple.
+Aplicació Web Simple (servlets I).
+
+
+
